@@ -13,10 +13,22 @@
   </a>
 </p>
 
+<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
 ---
-
-- 👨‍💻 As an Software Engineer, I'm constantly learning and exploring new technologies to improve my skills.
+<table>
+  <tr>
+    <td>
+      <ul>
+        <li>👨‍💻 As an Software Engineer, I'm constantly learning and exploring new technologies to improve my skills.</li>
+        <li>🎓 I am a student at the engineering faculty at the Pilot University of Colombia.</li>
+      </ul>
+    </td>
+    <td>
+      <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="About me" width="300" align="right">
+    </td>
+  </tr>
+</table>
 
 
 ## 🛠 &nbsp;Tech Stack
@@ -82,6 +94,8 @@
 <div align="center">
 <a href="mailto:michaelbohorquez2014@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/michael-bohorquez-mahecha-32b606384/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</a>
+<a href="https://www.instagram.com/maicolbh/"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </a>
 </div>
 
